@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 logging.basicConfig(format='%(asctime)s-%(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
-
+            
 class SimilarityPredictor:
     def __init__(self, model_path):
         self.model = SentenceTransformer(model_path)

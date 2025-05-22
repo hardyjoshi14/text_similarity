@@ -8,458 +8,536 @@ tags:
 - loss:MultipleNegativesRankingLoss
 base_model: sentence-transformers/all-MiniLM-L6-v2
 widget:
-- source_sentence: ukraine steel sell-off  illegal  the controversial sell-off of
-    a ukrainian steel mill to a relative of the former president was illegal  a court
-    has ruled.  the mill  krivorizhstal  was sold in june 2004 for $800m (£424m) -
-    well below other offers. president viktor yushchenko  elected in december  is
-    planning to revisit many of ukraine s recent privatisations. krivorizhstal is
-    one of dozens of firms which he says were sold cheaply to friends of the previous
-    administration.  on wednesday  prime minister yulia tymoshenko said as many as
-    3 000 firms could be included on the list of firms whose sale was being reviewed.  mr
-    yushchenko had previously said the list would be limited to 30-40 enterprises.
-    more than 90 000 businesses in all  from massive corporations to tiny shopfronts  have
-    been sold off since 1992  as the command economy built up when ukraine was part
-    of the soviet union was dismantled. analysts have suggested that the government
-    needs to avoid the impression of an open-ended list  so as to preserve investor
-    confidence.  thursday s ruling by a district court in perchesk overturned a previous
-    decision in a lower court permitting the sale. the consortium which won the auction
-    for the mill was created by viktor pinchuk  son-in-law of former-president leonid
-    kuchma  and rinat akhmetov  the country s richest man. the next step is for the
-    supreme court to annul the sale altogether  opening the way for krivorizhstal
-    to be resold. mr yushchenko has suggested a fair valuation could be as much as
-    $3bn. one of the foreign bidders who lost out  steel giant lnm  told bbc news
-    that it would be interested in any renewed sale.
+- source_sentence: india s reliance family feud heats up the ongoing public spat between
+    the two heirs of india s biggest conglomerate  reliance group  has spilled over
+    to the board meeting of a leading company within the group.  anil ambani  vice-chairman
+    of india petrochemicals limited (ipcl)  stayed away from a gathering of senior
+    managers on thursday. the move follows a decision earlier this month by anil -
+    the younger brother of reliance group president mukesh ambani - to resign from
+    his post. his resignation was not accepted by his brother  who is also the boss
+    of ipcl. the ipcl board met in mumbai to discuss the company s results for the
+    october-to-december quarter.  it is understood that the board also considered
+    anil s resignation and asked him to reconsider his decision. however  anil s demand
+    that anand jain - another ipcl board member accused by anil of creating a rift
+    in the ambani family - be thrown out  was not met. anil has accused anand jain  a
+    confidant of his brother mukesh  of playing a negative role in the ambani family  and
+    being responsible for the trouble between the brothers. on wednesday  the board
+    of reliance energy  another reliance group company  reaffirmed its faith in anil  who
+    is the company s chief. reliance group acquired the government s 26% stake in
+    ipcl - india s second-largest petrochemicals company - in 2002  as part of the
+    privatisation drive. meanwhile  the group s flagship company  reliance industries  has
+    its board meeting on friday to consider its financial results. mukesh is the company
+    s chairman and anil its deputy  and it is expected that both brothers will come
+    face to face in the meeting. the ambani family controls 48% of the group  which
+    is worth $17bn (£9.1bn; 745bn indian rupees). it was founded by their father  dhiru
+    bhai ambani  who died two years ago.
   sentences:
-  - france telecom gets orange boost strong growth in subscriptions to mobile phone
-    network orange has helped boost profits at owner france telecom.  orange added
-    more than five million new customers in 2004  leading to a 10% increase in its
-    revenues. increased take-up of broadband telecoms services also boosted france
-    telecom s profits  which showed a 5.5% rise to 18.3bn euros ($23.4bn; £12.5bn).
-    france telecom is to spend 578m euros on buying out minority shareholders in data
-    services provider equant.  france telecom  one of the world s largest telecoms
-    and internet service providers  saw its full-year sales rise 2.2% to 47.2bn euros
-    in 2004.  orange enjoyed strong growth outside france and the united kingdom -
-    its core markets - swelling its subscriber base to 5.4 million. france telecom
-    s broadband customers also increased  rising to 5.1 million across europe by the
-    end of the year. the firm said it had met its main strategic objectives of growing
-    its individual businesses and further reducing its large debt. an ill-fated expansion
-    drive in the late 1990s saw france telecom s debt soar to 72bn euros by 2002.
-    however  this has now been reduced to 43.9bn euros.  our results for 2004 allow
-    us to improve our financial structure while focusing on the innovation that drives
-    our strategy   said chief executive thierry breton.  looking ahead  the company
-    forecast like-for-like sales growth of between 3% and 5% over the next three years.
-    france telecom is consolidating its interest in equant  which provides telecoms
-    and data services to businesses. subject to approval by shareholders of the two
-    firms  it will buy the shares in equant it does not already own. france telecom
-    said it would fund the deal by selling an 8% stake in telephone directory company
-    pagesjaunes.
-  - 'poll explains free-kick decision referee graham poll said he applied the laws
-    of the game in allowing arsenal striker thierry henry s free-kick in sunday s
-    2-2 draw with chelsea.  keeper petr cech was organising his defensive wall when
-    henry s quick free-kick flew in  which angered chelsea.  the whistle doesn t need
-    to be blown. i asked henry  do you want a wall  . he said  can i take it please   he
-    was very polite. i said  yes    said poll.  i deal with the laws of the game.
-    i deal with fact.  poll added:  i gave the signal for him to take it. that s what
-    he did.  the same thing happened when i refereed chelsea against west ham in an
-    fa cup replay two years ago - when jimmy floyd hasselbaink scored - and i don
-    t remember them complaining about that.  henry explained why he paused before
-    striking the ball for the goal  which put arsenal 2-1 ahead.  henry told bbc radio
-    five live:  the ref asked me if i wanted 10 yards or if i wanted to take it straight
-    away and i said that i wanted to take it straight away. he said to me   go .  it
-    looks a bit strange because i took my time. i was waiting for eidur gudjohnsen
-    to move and give me some space.  at one point  he turned and that s when i tried
-    it.  former referees  chief philip don backed poll s decision to allow the strike.  the
-    advantage should go to the non-offending team. on this occasion it was arsenal   don
-    told bbc radio five live.  referees have been told to ask the player  do you want
-    to take the quick free-kick   or  do you want me to get the wall back 9.15 metres    if
-    they say  quick   the referee tends to move away and allow the kick.  don was
-    head of the referees for the premier league and revealed all clubs were informed
-    of free-kick options.  we spoke to all the premier league clubs as well as all
-    the football league clubs in the summer of 2003 explaining what the situation
-    was   he added  we gave them the option of either the quick free-kick or the  ceremonial  free-kick.
-    players and clubs were aware of what referees were doing.'
-  - irish finish with home game republic of ireland manager brian kerr has been granted
-    his wish for a home game as the final world cup qualifier.  ireland will close
-    their bid to reach the 2006 finals by playing switzerland in dublin on 12 october
-    2005. the republic met the swiss in their final euro 2004 qualifier  losing 2-0
-    away and missing out on a place in the finals in portugal. the group four fixtures
-    were hammered out at a meeting in dublin on tuesday. the irish open their campaign
-    on 4 september at home to cyprus and wrap up the 10-match series on 12 october
-    2005  with the visit of switzerland. manager brian kerr and fai officials met
-    representatives from switzerland  france  cyprus  israel and the faroe islands
-    to arrange the fixture schedule. kerr had hoped to finish with a clash against
-    france  but got the reigning european champions as their penultimate home match
-    on 7 september 2005. the manager got his wish to avoid a repeat of finishing their
-    bid to qualify with too many away matches.  republic of ireland v cyprus; france
-    v israel; switzerland v faroe islands.  switzerland v republic of ireland; israel
-    v cyprus; faroe islands v france.  france v republic of ireland; israel v switzerland;
-    cyprus v faroe islands.  republic of ireland v faroe islands; cyprus v france.  cyprus
-    v israel.  france v switzerland; israel v republic of ireland.  switzerland v
-    cyprus; israel v france.  republic of ireland v israel; faroe islands v switzerland.  faroe
-    islands v republic of ireland. august 17 - faroe islands v cyprus.  france v faroe
-    islands; switzerland v israel.  republic of ireland v france; cyprus v switzerland;
-    faroe islands v israel.  switzerland v france; israel v faroe islands; cyprus
-    v republic of ireland.  france v cyprus; republic of ireland v switzerland.
-- source_sentence: 'petrol duties frozen  brown says chancellor gordon brown has announced
-    a freeze on fuel duty in his pre-budget speech to the commons on thursday.  mr
-    brown told the house that government policy is to raise fuel duty at least in
-    line with inflation each year to fulfil environmental commitments. but this financial
-    year  because of  volatility in the oil market   he said the duty would be frozen.
-    during 2000 many motorists campaigned against the rises but environmentalists
-    believe less duty means more pollution. he said:  it is our policy that each year
-    fuel duties should rise at least in line with inflation as we seek to meet our
-    targets for reducing polluting emmissions and fund our public services.  but this
-    financial year because of the sustained volatility in the oil market i propose
-    to match the freeze in car vehicle licence duty with a continuation on the freeze
-    on the main road fuel duties.   the rac welcomed the news  calling it an  early
-    christmas present  for motorists. but the organisation urged drivers to continue
-    to shop around to get the best price for petrol. environmental group transport
-    2000 said the freeze sends the wrong message to motorists.  we are concerned that
-    although britain leads the world in rhetoric about climate change it often fails
-    in practical action   said a spokesman. in 2000 the people s fuel lobby caused
-    chaos by blocking roads with slow-moving convoys after mr brown threatened to
-    raise fuel taxes. the chancellor did not raise duty that year  but despite threats
-    of more protests in 2003  he added 1.28p per litre.'
+  - no re-draft  for eu patent law a proposed european law on software patents will
+    not be re-drafted by the european commission (ec) despite requests by meps.  the
+    law is proving controversial and has been in limbo for a year. some major tech
+    firms say it is needed to protect inventions  while others fear it will hurt smaller
+    tech firms the ec says the council of ministers will adopt a draft version that
+    was agreed upon last may but said it would review  all aspects of the directive
+    . the directive is intended to offer patent protection to inventions that use
+    software to achieve their effect  in other words   computer implemented invention
+    .  in a letter  ec president jos&#233; manuel barroso told the president of the
+    european parliament  josep borrell  that the commission  did not intend to refer
+    a new proposal to the parliament and the council (of ministers)  as it had supported
+    the agreement reached by ministers in may 2004.  if the european council agrees
+    on the draft directive it will then return for a second reading at the european
+    parliament. but that will not guarantee that the directive will become law - instead
+    it will probably mean further delays and controversy over the directive. most
+    eu legislation now needs the approval of both parliament and the council of ministers
+    before it becomes law. french green mep alain lipietz warned two weeks ago that
+    if the commission ignored the parliament s request it would be an  insult  to
+    the assembly. he said that the parliament would then reject the council s version
+    of the legislation as part of the final or conciliation stage of the decision
+    procedure. in the us  the patenting of computer programs and internet business
+    methods is permitted.  this means that the us-based amazon.com holds a patent
+    for its  one-click shopping  service  for example. critics are concerned that
+    the directive could lead to a similar model happening in europe. this  they fear  could
+    hurt small software developers because they do not have the legal and financial
+    might of larger companies if they had to fight patent legal action in court. supporters
+    say current laws are inefficient and it would serve to even up a playing field
+    without bringing eu laws in line with the us.
+  - troubled marsh under sec scrutiny the us stock market regulator is investigating
+    troubled insurance broker marsh & mclennan s shareholder transactions  the firm
+    has said.  the securities and exchange commission has asked for information about
+    transactions involving holders of 5% or more of the firm s shares. marsh has said
+    it is co-operating fully with the sec investigation. marsh is also the focus of
+    an inquiry the new york attorney-general into whether insurers rigged the market.
+    since that inquiry was launched in october  marsh has replaced its chief executive
+    and held a boardroom shake-out to meet criticism by lessening the number of company
+    executives on the board. prosecutors allege that marsh - the world s biggest insurance
+    broker - and other us insurance firms may have fixed bids for corporate cover.
+    this is the issue at the heart of the inquiry by new york s top law officer  eliot
+    spitzer  and a separate prosecution of five insurers by the state of california.
+    the sec s investigation into so-called related party transactions includes dealings
+    in the trident funds  managed by mmc capital  the company s private equity firm.
+    marsh s new chief executive  michael cherkasky  is trying to negotiate a settlement
+    with mr spitzer. mr spitzer has built up a reputation as a fierce critic and campaigner
+    against corporate america s misdeeds.  the uncertainty unleashed by the scandal
+    has prompted three credit rating agencies - standard & poor s  moody s and fitch
+    - to downgrade marsh in recent weeks. according to the financial times  insurance
+    analysts are now questioning whether marsh will be able to maintain its strong
+    record of earning growth as they draw up forecasts for the first quarter of next
+    year. doubts also exist over how much the company may have to pay regulators and
+    lawyers to put the scandal behind.
+  - 'god cut from dark materials film the director and screenwriter of the film adaptation
+    of philip pullman s his dark materials is to remove references to god and the
+    church in the movie.  chris weitz  director of about a boy  said the changes were
+    being made after film studio new line expressed concern. the books tell of a battle
+    against the church and a fight to overthrow god.  they have expressed worry about
+    the possibility of perceived anti-religiosity   weitz told a his dark materials
+    fans  website. pullman s trilogy has been attacked by some christian teachers
+    and by the catholic press as blasphemy. weitz  who admitted he would not be many
+    people s first choice to direct the films  said he regarded the film adaptation
+    as  the most important work of my life .   in part because it is one of the few
+    books to have changed my life   he told bridgetothestars.net. the award-winning
+    trilogy - northern lights  the subtle knife and the amber spyglass - tell the
+    story of oxford school child lyra belacqua. she is drawn into an epic struggle
+    against the church  which has been carrying out experiments on children in an
+    attempt to remove original sin.  as the books progress the struggle turns into
+    a battle to overthrow the authority  a figure who is god-like in the books. weitz  who
+    directed american pie and about a boy  said new line feared that any anti-religiosity
+    in the film would make the project  unviable financially . he said:  all my best
+    efforts will be directed towards keeping the film as liberating and iconoclastic
+    an experience as i can.  but there may be some modification of terms.   weitz
+    said he had visited pullman  who had told him that the authority could  represent
+    any arbitrary establishment that curtails the freedom of the individual  whether
+    it be religious  political  totalitarian  fundamentalist  communist  what have
+    you . he added:  i have no desire to change the nature or intentions of the villains
+    of the piece  but they may appear in more subtle guises.  there are a number of
+    christian websites which attack the trilogy for their depiction of the church
+    and of god  but pullman has denied his books are anti-religious. his agent told
+    the times newspaper that pullman was happy with the adaptation so far.  of course
+    new line want to make money  but mr weitz is a wonderful director and philip is
+    very supportive.  you have to recognise that it is a challenge in the climate
+    of bush s america'
+- source_sentence: bank opts to leave rates on hold the bank of england has left interest
+    rates on hold at 4.75% for a sixth month in a row.  the bank s monetary policy
+    committee (mpc) decided to take no action amid mixed signals from the economy.
+    but some economists predict a further rise in the cost of borrowing will come
+    later this year. interest rates rose five times between november 2003 and august
+    2004 as soaring house prices and buoyant consumer data sparked inflation fears.
+    bank of england governor mervyn king has recently warned against placing too much
+    weight on one month s economic data  suggesting the mpc is waiting for a clearer
+    picture to emerge. economists see next week s inflation report from the mpc as
+    key in assessing whether a further interest rate rise is necessary to keep the
+    economy in check.  slower consumer spending and a quieter housing market are likely
+    to have convinced the mpc that rates should be left unchanged in recent months.
+    inflation  however  has been rising faster than expected  hitting an annual rate
+    of 1.6% in december - its highest level in six months. data on wednesday also
+    showed manufacturing output rose at its fastest rate since may last month  reinforcing
+    a view that economic growth was stronger than forecasts.  and recent house surveys
+    from the halifax and nationwide have indicated prices are still rising  albeit
+    at a slower pace than in recent years. philip shaw  chief economist at investec
+    securities  said he believed rates would remain at 4.75% for the rest of the year
+    although strong economic data could lead to a further hike.  the economic landscape
+    has changed quite considerably over the last couple of months    he said.  growth
+    appears stronger and the mpc may become more concerned about inflation trends.  howard
+    archer  economist at global insight said the mpc  may well consider that the balance
+    of risks to the growth and inflation outlook have moved from the downside to the
+    upside .  business groups welcomed the mpc s widely-expected move to leave rates
+    on hold and cautioned against further rises. the british chambers of commerce
+    (bcc) said it was  concerned by the clamour in some quarters  for early interest
+    rate increases.  we believe that these demands should be firmly resisted   said
+    david frost  bcc director general.  manufacturing still faces extremely serious
+    problems and is performing poorly  in spite of the recent revised figures.  ian
+    mccafferty  chief economist at the cbi  said the mpc faced an  interesting  challenge.  consumers
+    appear to have pulled in their horns over the holiday period  and exporters are
+    struggling with the strength of sterling   he said.  however  the broader economy
+    continues to show healthy growth  and the tight labour market and buoyant commodity
+    prices are nudging inflation higher.
   sentences:
-  - can smith work scottish wonders  the worst kept secret in scottish football was
-    revealed on thursday when walter smith was named as the new national manager.  from
-    the moment berti vogts  miserable tenure in charge of scotland ended  the former
-    rangers and everton boss has been the overwhelming favourite for the post. but
-    is smith the man for what must be one of the hardest jobs in football  the 56-year-old
-    takes over at a time when the national side is in the doldrums. scotland have
-    not reached a major finals since the world cup in 1998 and reaching germany 2006
-    looks near impossible  having picked up just two points from the opening three
-    games in the qualifying race. and the fifa rankings see scotland listed at an
-    all time low of 77th  below the likes of estonia  ghana  angola and thailand.
-    scotland are not blessed with quality players with experience at the top level  so
-    smith will have to get the best out of meagre resources. smith s track record
-    make impressive reading and he is widely respected within the game. the man who
-    was alex ferguson s assistant when scotland played at the 1986 world cup won seven
-    league titles with rangers. and his appointment has been widely endorsed by many
-    of the games  top names  including ferguson and graeme souness  who took him to
-    ibrox as his assistant in 1986. characters like souness  ferguson and current
-    ibrox manager alex mcleish all cite smith s experience and his expansive knowledge
-    of the scottish game.  much was made of vogts  inability to express himself to
-    the players and media. that will certainly not be the case with smith. the former
-    dundee united and dumbarton full-back is from the managerial old school - straight
-    talking and never slow to let players know when he expects better (often with
-    the use of some colourful invective). but it should be remembered vogts came to
-    scotland with an impressive curriculum vitae - a world cup winner as a player
-    and a european championships winner as a manager. smith will inherit the same
-    problems vogts had - a callow squad of players with no exceptional talents. and
-    it remains to be seen if smith will experience the rash of call-offs that blighted
-    so much of vogts  preparation work. a fresh start for the scottish national team
-    was imperative and smith is widely regarded as a safe pair of hands. but will
-    a safe pair of hands be enough when the adroit hands of a magician might be required...
-  - beckham virus spotted on the net virus writers are trading on interest in david
-    beckham to distribute their malicious wares.  messages are circulating widely
-    that purport to have evidence of the england captain in a compromising position.
-    but anyone visiting the website mentioned in the message will not see pictures
-    of mr beckham but will have their computer infected by a virus. the pernicious
-    program opens a backdoor on a computer so it can be controlled remotely by malicious
-    hackers.  the appearance of the beckham windows trojan is just another example
-    in a long line of viruses that trade on interest in celebrities in an attempt
-    to fuel their spread. tennis player anna kournikova  popstars britney spears and
-    avril lavigne as well as arnold schwarzenegger have all been used in the past
-    to try to con people into opening infected files. the huge amount of interest
-    in mr beckham and his private life and the large number of messages posted to
-    discussion groups on the net might mean that the malicious program catches a lot
-    of people out.  the public s appetite for salacious gossip about the private life
-    of the beckhams might lead some into an unpleasant computer infection   said graham
-    cluley from anti-virus firm sophos. simply opening the message will not infect
-    a user s pc. but anyone visiting the website it mentions who then downloads and
-    opens the fake image file stored on that site will be infected. the program that
-    installs itself is called the hackarmy trojan and it tries to recruit pcs into
-    so-called  bot networks that are often used to distribute spam mail messages or
-    to launch attacks across the web. computers running microsoft windows 95  98  2000  nt
-    and xp are vulnerable to this trojan. many anti-virus programs have been able
-    to detect this trojan since it first appeared early this year and have regularly
-    been updated to catch new variants.
-  - incredibles win animation awards the incredibles movie has beaten shrek 2 to the
-    main prizes at hollywood s animation awards  the annies.  the superhero film was
-    named best animated feature while brad bird won best director  writer and voice
-    actor for his role as designer edna mode. the incredibles won a total of 10 awards
-    - but shrek 2  which had seven nominations  went home empty-handed. the two movies
-    will compete with shark tale in the best animated film category of the oscars
-    at the end of february.  the incredibles  awards came despite shrek 2 s greater
-    box office success. shrek 2 took $881m (£468m) around the world  compared with
-    $576m (£306m) for the incredibles. spongebob squarepants was named best animated
-    tv show while tv comedy king of the hill picked up two prizes including one for
-    actress brittany murphy s voice work. tom kenny  who provides the voice for spongebob
-    squarepants  hosted sunday s ceremony at the alex theater  los angeles. the awards
-    are handed out by the international animated film society. finding nemo won nine
-    annies last year.
-- source_sentence: 'mourinho defiant on chelsea form chelsea boss jose mourinho has
-    insisted that sir alex ferguson and arsene wenger would swap places with him.  mourinho
-    s side were knocked out of the fa cup by newcastle last sunday before seeing barcelona
-    secure a 2-1 champions league first-leg lead in the nou camp. but he denied his
-    club was suffering a dip in form which league rivals arsenal and manchester united
-    could exploit.  they cannot speak to us about blips because they re not in a better
-    position than us   mourinho said.  do they want to change positions with us  we
-    are top of the league by nine points and in the carling cup final.  the only thing
-    they can say they are in a better position than us in is the fa cup.  in the champions
-    league all three teams can either go through or go out but the one team that is
-    in the best position is still chelsea.   mourinho said it was important to keep
-    his team s results in perspective.  don t try to put pressure on me because i
-    am never under pressure   he warned.  we have lost one important game this week
-    - at newcastle - and we re out of the fa cup but i don t think a defeat in a first-leg
-    tie is a real defeat. we are just 2-1 down at half-time.  asked if his chelsea
-    honeymoon was now over  mourinho replied:  i have had 20 years of honeymoons with
-    my wife.  the day that this club is not happy with me is the day that i go.'
+  - eu  too slow  on economic reforms most eu countries have failed to put in place
+    policies aimed at making europe the world s most competitive economy by the end
+    of the decade  a report says.  the study  undertaken by the european commission  sought
+    to assess how far the eu has moved towards meeting its economic targets. in 2000  eu
+    leaders at a summit in lisbon pledged the european economy would outstrip that
+    of the us by 2010. their economic targets became known as the lisbon agenda. but
+    the commission report says that  in most eu countries  the pace of economic reform
+    has been too slow  and fulfilling the lisbon ambitions will be difficult - if
+    not impossible.  only the uk  finland  belgium  denmark  ireland and the netherlands
+    have actually followed up policy recommendations. among the biggest laggards  according
+    to the report  are greece and italy. the lisbon agenda set out to increase the
+    number of people employed in europe by encouraging more older people and women
+    to stay in the workforce. it also set out to raise the amount the private sector
+    spends on research and development  while bringing about greater discipline over
+    public spending and debt levels. combined with high environmental standards and
+    efforts to level the playing field for businesses throughout the eu  the plan
+    was for europe to become the world s most dynamic economy by 2010. next week  the
+    commission will present revised proposals to meet the lisbon goals. many people
+    expect the 2010 target to be quietly dropped.
+  - 'sfa awaits report over mikoliunas the scottish football association is awaiting
+    referee hugh dallas s report before acting against hearts winger saulius mikoliunas.  mikoliunas  20  barged
+    linesman andy davis  who had advised dallas to award rangers an injury-time penalty
+    in hearts s 2-1 defeat at tynecastle.  he was sent off for violent conduct in
+    the 90th minute but we don t know if he did something else after the whistle.  we
+    don t know how many red cards he was shown   said an sfa statement. hearts could
+    also face action after three fans were arrested for throwing coins on the pitch.
+    rangers  striker dad prso was also sent off during the same incident when he received
+    a second yellow card for wrestling the ball away from craig gordon and leaving
+    the hearts keeper on the ground. the sfa said:  once the referee s report comes
+    in then we ll immediately look at things.   we don t normally get the reports
+    until a couple of days after the game but we re well aware of what happened here.  prso
+    was sent off for two cautions  and that will just be a one-match suspension.  the
+    sfa is certain to come down hard on mikoliunas after southampton s david prutton
+    was banned for 10-games on wednesday by the english fa for shoving referee alan
+    wiley. hearts  boss john robertson said:  mikoliunas has thrown his chest against
+    the assistant referee s chest and got a red card for it.  the officials have got
+    to take into account the fact he s a young lad.  but people have got to take into
+    account why he was incensed. why were 10 000 hearts fans incensed   why did nobody
+    from the rangers  bench claim for a penalty kick   rangers  boss alex mcleish
+    accepted referee dallas had no option but to send prso off. mcleish said:  i m
+    glad to see the spirit of the players fighting to the very end - literally with
+    dado trying to get the ball back from craig gordon.  but it was over-zealousness
+    and i don t think hugh had any option.'
+  - 'ferguson rues failure to cut gap boss sir alex ferguson was left ruing manchester
+    united s failure to close the gap on chelsea  everton and arsenal after his side
+    s 1-1 draw with fulham.  premiership leaders chelsea and the gunners endured a
+    2-2 stalemate on sunday  giving united the chance to make up some ground in the
+    league. but ferguson said:  i think what makes it so bad is that both our rivals
+    dropped points at the weekend.  it was a great opportunity - and we haven t delivered.  united
+    went ahead through alan smith in the 33rd minute before bouba diop s superb 25-yard
+    strike cancelled out the visitors  lead in the 87th minute. ferguson described
+    the result as an  absolute giveaway  after united had earlier missed a host of
+    opportunities to finish off the encounter. he said:  it was a good performance
+    - some of the football was fantastic - but we just didn t finish them off.  in
+    fairness  it s a fantastic strike from the fulham player.  the result leaves ferguson
+    s side fourth in the league on 31 points - four points behind arsenal and a further
+    five back from chelsea.'
+- source_sentence: 'ea to take on film and tv giants video game giant electronic arts
+    (ea) says it wants to become the biggest entertainment firm in the world.  the
+    us firm says it wants to compete with companies such as disney and will only achieve
+    this by making games appeal to mainstream audiences. ea publishes blockbuster
+    titles such as fifa and john madden  as well as video game versions of movies
+    such as harry potter and the james bond films. its revenues were $3bn (£1.65bn)
+    in 2004  which ea hoped to double by 2009. ea is the biggest games publisher in
+    the world and in 2004 had 27 titles which sold in excess of one million copies
+    each. nine of the 20 biggest-selling games in the uk last year were published
+    by ea.  gerhard florin  ea s managing director for european publishing  said:  doubling
+    our industry in five years is not rocket science.  he said it would take many
+    years before ea could challenge disney - which in 2004 reported revenues of $30bn
+    (£16bn) - but it remained a goal for the company.  we will be able to bring more
+    people into gaming because games will be more emotional.  mr florin predicted
+    that the next round of games console would give developers enough power to create
+    real emotion.   it s the subtleties  the eyes  the mouth - 5 000 polygons doesn
+    t really sell the emotion.   with ps3 and xbox 2  we can go on the main character
+    with 30 000 to 50 000 polygons   he said.  with that increased firepower  the
+    finding nemo video game looks just like the movie  but it will be interactive.  mr
+    florin said that more than 50% of all ea s games were sold to adults and played
+    by adults  but the perception remained that the video game industry was for children.  our
+    goal is to bring games to the masses which bring out emotions.  ea said the video
+    game industry was now bigger than the music industry.  nobody queues for music
+    anymore.    you can t ignore an industry when people queue to buy a game at midnight
+    because they are so desperate to play it   he said  referring to demand for titles
+    for such as grand theft auto: san andreas and halo 2.  jan bolz  ea s vice president
+    of sales and marketing in europe  said the firm was working to give video games
+    a more central role in popular culture. he said the company was in advanced stages
+    of discussions over a reality tv show in which viewers could control the actions
+    of the characters as in its popular game the sims.  one idea could be that you
+    re controlling a family  telling them when to go to the kitchen and when to go
+    to the bedroom  and with this mechanism you have gamers all over the world  playing
+    the show    said mr bolz.  he also said ea was planning an international awards
+    show  similar to the oscars and the grammys  which would combine video games  music
+    and movies. mr bolz said video games firm had to work more closely with celebrities.  people
+    will want to play video games if their heroes like robbie williams or christina
+    aguilera are in them.  mr florin said the challenge was to keep people playing
+    in their 30s  40s and 50s.  there s an indication that a 30 year old comes home
+    from work and still wants to play games.  if that s true  that s a big challenge
+    for tv broadcasters - because watching tv is the biggest pastime at present.'
   sentences:
-  - 'beattie return calms attack fears everton striker james beattie has been declared
-    fit for training on tuesday  despite suffering an alleged assault last saturday.  beattie  27  is
-    not believed to be as seriously hurt as some reports have suggested after being  the
-    victim of an unprovoked assault  in birmingham. he was on a night out with his
-    girlfriend and two friends following everton s 3-1 win over aston villa.  he was
-    shaken but not badly injured   said everton spokesman ian ross. he added:  he
-    did speak to the police but will not be pressing charges.  he has spoken to manager
-    david moyes about what happened.  beattie was suspended for the win at aston villa
-    after his red card against chelsea and he will be available again for the merseyside
-    derby at liverpool on 20 march.'
-  - 'brazil plays down varig rescue the brazilian government has played down claims
-    that it could step in to save the country s biggest airline.  brazil s airport
-    authority chief carlos wilson had claimed the government was on the brink of stepping
-    in to save varig  brazil s flagship airline. however  the country s vice president
-    jose alencar has said the government still is looking for a solution. varig is
-    struggling under a huge debt burden of an estimated debt of 6.5 billion reais
-    ($2.3bn or £1.2bn). asked whether a rescue was on the cards following a meeting
-    of the country s congress to discuss the airline s crisis  mr alencar replied:  no  i
-    don t think so. we will see.   earlier  mr wilson had said that president luiz
-    inacio lula da silva has decided to step in and a decree of some kind of intervention
-    could be signed this week.  in practice  it will be an intervention  although
-    this is not the technical name used   he said. an intervention means that the
-    government would take administrative control of the company and its finances.
-    for that to happen varig s main shareholder  the non-profit ruben berta foundation
-    which represents the airline s employees  would have to be removed  mr wilson
-    said. however  no jobs would be lost and the airline would keep on flying  he
-    added. varig  which operates in 18 countries apart from brazil  has been driven
-    to the brink of collapse because of the country s economic downturn.  the depreciation
-    of brazil s currency has had a direct impact on the airline s dollar debt as well
-    as some of its costs. business has improved recently with demand for air travel
-    increasing and a recovery in the brazilian economy. the airline could also win
-    a sizeable windfall from a compensation claim against the government. on tuesday
-    the courts awarded varig 2bn reais ($725m)  after ruling in favour of its compensation
-    claim against the government for freezing tariffs from 1985 to 1992. but the government
-    can appeal the decision.'
-  - 'holmes urged to compete at worlds jolanda ceplak has urged britain s kelly holmes
-    to continue competing at the major championships.  double olympic gold medallist
-    holmes has strongly hinted she will not run in this year s worlds and is undecided
-    about next month s european indoors. but world indoor 800m record holder ceplak
-    said:  there is never an easy race when she is in the field. there is only excitement
-    at what might happen.  it is good for the sport. she always fetches the best out
-    of everyone.  ceplak has been a great rival of holmes  during the briton s career
-    and the pair fell out when holmes questioned the manner of the slovenian s runaway
-    800m victory at the 2002 european championships. but the controversy has since
-    been forgotten  with ceplak acting as pacemaker for holmes  failed attempt on
-    the british indoor 1500m record at the norwich union grand prix in birmingham
-    in 2003.  ceplak added:  i like running against her - you know the race is always
-    going to be fast.  that is the sort of competition that i like. she is special
-    to me. she was like my idol from the beginning of my career.  meanwhile  ceplak
-    will be looking to follow up last saturday s win in boston with a fast time and
-    victory in friday s night of athletics in erfurt  germany. britain s jason gardener
-    had been expected to defend his 60m title in erfurt but instead he will save himself
-    for a competition in leipzig on sunday. gardener s decision means scotland s 400m
-    man ian mackie will carry british hopes in what looks sure to be a tough preparation
-    for next weekend s norwich union european trials in sheffield.'
-- source_sentence: winemaker rejects foster s offer australian winemaker southcorp
-    has rejected a takeover offer worth 3.1bn australian dollars ($2.3bn; £1.8bn)
-    from brewing giant foster s group.  southcorp  whose brands include penfolds  rosemount
-    and lindemans  dismissed the offer as inadequate. the two companies held four
-    days of talks after foster s bought an 18.8% stake in southcorp on 13 january.
-    a merger would create a global player with worldwide annual sales of 39m cases
-    and revenues of a$2.6bn.  southcorp said foster s a$4.17-a-share takeover proposal
-    offered a  excellent strategic fit  but undervalued the company.  southcorp s
-    board has informed foster s that it is not prepared to recommend the offer as
-    it does not adequately reflect the strategic value of the company   said southcorp
-    chairman brian finn.  southcorp said foster s takeover offer was  opportunistic
-    . however  it said that the offer may represent an  opening bid   opening up the
-    possibility of foster s returning with an improved offer.  foster s said a combination
-    of the two companies would create a global player with an  unrivalled  collection
-    of premium wine brands. despite being best known for brewing foster s lager  foster
-    s is already one of australia s largest wine producers  owning the beringer and
-    wolf blass brands among others.  the combination of foster s and southcorp will
-    transform the global wine industry and significantly enhance australia s competitive
-    position on the global stage   said trevor o hoy  foster s chief executive officer.
-    foster s spent a$584m on buying an 18.8% stake in southcorp from the oatley family  which
-    founded the rosemount estates business and later merged it into southcorp. shares
-    in both companies were suspended while the two held talks about a deal. southcorp
-    s shares rose 12% to a$4.76 on news of the offer but foster s shares fell 3.7%
-    to a$5.44.
+  - 'lions blow to world cup winners british and irish lions coach clive woodward
+    says he is unlikely to select any players not involved in next year s rbs six
+    nations championship.  world cup winners lawrence dallaglio  neil back and martin
+    johnson had all been thought to be in the frame for next summer s tour to new
+    zealand.  i don t think you can ever say never   said woodward.  but i would have
+    to have a compulsive reason to pick any player who is not available to international
+    rugby.  dallaglio  back and johnson have all retired from international rugby
+    over the last 12 months but continue to star for their club sides. but woodward
+    added:  the key thing that i want to stress is that i intend to use the six nations
+    and the players who are available to international rugby as the key benchmark.  my
+    job  along with all the other senior representatives  is to make sure that we
+    pick the strongest possible team.  if you are not playing international rugby
+    then it s still a step up to test rugby. it s definitely a disadvantage.   i think
+    it s absolutely critical and with the history of the lions we have got to take
+    players playing for the four countries.  woodward also revealed that the race
+    for the captaincy was still wide open.  it is an open book   he said.  there are
+    some outstanding candidates from all four countries.  and following the all blacks  impressive
+    displays in europe in recent weeks  including a 45-6 humiliation of france  woodward
+    believes the three-test series in new zealand will provide the ultimate rugby
+    challenge.  their performance in particular against france was simply awesome   said
+    the lions coach.  certain things have been suggested about the potency of their
+    front five  but they re a very powerful unit.  with his customary thoroughness  woodward
+    revealed he had taken soundings from australia coach eddie jones and jake white
+    of south africa following their tour matches in britain and ireland.  as a result  woodward
+    stressed his lions group might not be dominated by players from england and ireland
+    and held out hope for the struggling scots.  scotland s recent results have not
+    been that impressive but there have been some excellent individual performances.  eddie
+    in particular told me how tough they had made it for australia and i will take
+    on board their opinions.  and scotland forward simon taylor looks certain to get
+    the call  provided he recovers from knee and tendon problems.  i took lessons
+    from 2001 in that they did make a mistake in taking lawrence dallaglio when he
+    wasn t fit and went on the trip.  every player has to be looked at on their own
+    merits and simon taylor is an outstanding player and i have no doubts that if
+    he gets back to full fitness he will be on the trip.  i am told he should be back
+    playing by march and he has plenty of time to prove his fitness for the lions
+    - and there are other players like richard hill in the same boat.'
+  - 'kilroy-silk attacked with slurry euro mp robert kilroy-silk has had a bucket
+    of farm slurry thrown over him by a protester in manchester.  the uk independence
+    party member was arriving for a bbc radio show when the attacker emerged from
+    behind a bush. fellow guest ruth kelly mp was also hit by the slurry. mr kilroy-silk
+    said the man  who later disappeared  claimed he was  doing it in the name of islam
+    . in january  mr kilroy-silk quit his bbc one show for remarks he made about arabs  who
+    he called  suicide bombers .  mr kilroy-silk had already been taken off air by
+    bbc bosses for the comments  in which he also described arabs as  limb-amputators  women
+    repressors . the remarks prompted outrage among muslim groups. the slurry attack
+    took place on friday as mr kilroy-silk and ms kelly  a cabinet office minister
+    and bolton west mp  arrived at manchester high school for girls for the recording
+    of bbc radio 4 s any questions.  the police were called but the attacker had disappeared
+    by the time officers arrived. they are treating the incident as assault. the programme
+    s host  jonathan dimbleby  later told the audience the mep had been covered from  head
+    to toe . mr kilroy-silk was still able appear to appear on the show after being
+    loaned a change of clothes.  he told reporters he was  very angry  and planned
+    to press charges if his attacker was caught. he said the man shouted:  you ve
+    offended my religion  i m doing this in the name of islam.   as i started to turn
+    round a guy tipped a bucket of farmyard muck over me and then threw the rest of
+    it over me and the car   mr kilroy-silk said.  i was totally covered  it was all
+    through my clothes  and it stank to high heaven. it went all inside the car and
+    splattered ruth kelly.  a bbc spokesman said:  he took his seat as jonathan dimbleby
+    was introducing the show. fortunately someone at the school had a change of clothes
+    to let him have.  greater manchester police said people near mr kilroy-silk had
+    also been hit by the waste. officers took statements at the scene  but no arrests
+    have been made. police say the suspect ran off after towards wilmslow road after
+    committing the offence but is believed to have been driving a red vauxhall corsa
+    earlier. the suspect is described as white  aged 30 to 40  with a ginger beard.
+    police want to hear from anyone who has any information.  mr kilroy-silk  an mep
+    for the east midlands  resigned the uk independence party whip in the european
+    parliament in october  after criticising ukip and stating his ambition to be leader.
+    however  he remains a member of the party. he said on friday he hoped to be elected
+    party leader before christmas.  i think that is sufficient time for us to put
+    in process what is necessary... in time for us to fight and have a significant
+    impact upon the general election.  but a ukip spokesman said that would be impossible
+    under the party s constitution  which requires 70 days before any leadership ballot
+    can take place.'
+  - 'bad e-mail habits sustains spam the  bad behaviour  of e-mail users is helping
+    to sustain the spam industry  a new study has found.  according to a survey conducted
+    by security firm mirapoint and market research company the radicati group  nearly
+    a third of e-mail users have clicked on links in spam messages. one in ten users
+    have bought products advertised in junk mail. clicking on a link in a spam message
+    can expose people to viruses and alert spammers to live e-mail accounts.  the
+    fact that one in ten e-mail users are buying things advertised in spam continues
+    to make it an attractive business  especially given that sending out huge amounts
+    of spam costs very little  the report concludes.  this preliminary data is surprising
+    and somewhat shocking to us   said marcel nienhuis  market analyst at the radicati
+    group.  it explains why e-mail security threats including spam  viruses and phishing
+    scams continue to proliferate   he said  accusing users of  bad e-mail behaviour
+    . spammers are increasingly hooking into whatever happens to be flavour of the
+    month  according to security firm clearswift. it has recently seen a rise in the
+    number of spam messages offering phoney sony psp giveaways. and  in perhaps a
+    nod to the popularity of the american drama series desperate housewives  it has
+    also seen a dramatic rise in junk mails purporting to give details of women looking
+    for casual sex. but rather than finding a companion  users who click on such mail
+    will find themselves redirected to porn sites  where they run the risk of downloading
+    spyware on to their pc. clearswift has seen a 180% rise in sex-related spam over
+    the course of the last month.  without casting aspersions  those likely to respond
+    to these kind of adverts will be invariably hoping that  one thing leads to another  but
+    aside from the fact that these mails are bogus  clicking on any link within a
+    spam mail can lead to a whole host of unwanted problems   said alyn hockey  clearswift
+    s director of research.  sexually explicit terms make up 14% of security firm
+    sophos  top 50 word that spammers most commonly try to disguise in order to beat
+    anti-spam filters. spammers will deliberately misspell a word or use digits instead
+    of letters in an attempt to by-pass anti-spam software  said graham cluley  senior
+    technology consultant for security firm sophos.  the list of words most commonly
+    hidden by the spammers from anti-spam software reveals that most spam is about
+    the old favourites: money  drugs and sex   said mr cluley. but anti-spam filters
+    can only be part of the solution to the menace of junk e-mail.  people must resist
+    their basic instincts to buy from spam mails. spammers are criminals  plain and
+    simple. if no-one responded to junk e-mail and didn t buy products sold in this
+    way  then spam would be as extinct as the dinosaurs   he said.'
+- source_sentence: 'newcastle line up babayaro newcastle manager graeme souness is
+    closing in on signing chelsea defender celestine babayaro when the transfer window
+    reopens.  souness is bidding to bolster his defence and  according to reports  contract
+    negotiations are at an advanced stage with the player. babayaro has been in the
+    premiership since 1997 when he moved to chelsea for £2.25m from anderlecht. but
+    the 26-year-old has been surplus to requirements this season. souness would not
+    be drawn on specifics over individual players.  but he said:  all i can tell you
+    is that the chairman has worked really hard in the last couple of months to try
+    to do deals.  we have said from day one we want to strengthen  and that is what
+    we are hoping to do in the coming weeks.'
   sentences:
-  - 'cairn energy in indian gas find shares in cairn energy rose 3.8% to 1 088 pence
-    on tuesday after the uk firm announced a fresh gas discovery in northern india.  the
-    firm  which last year made a number of other new finds in the rajasthan area  said
-    the latest discovery could lead to large gas volumes. however  chief executive
-    bill gammell cautioned that additional evalution was first needed at the site.
-    cairn has also been granted approval to extend its rajasthan exploration area.
-    this approval has come from the indian government.  a spokesman said the company
-    s decision to carry out further investigations at the new find showed that it
-    believed there was significant gas. but he added:  it s still too early to say
-    what the extent of it is.  cairn s string of finds in rajasthan last year saw
-    it elevated to the ftse 100 index of the uk s leading listed companies. the company
-    had bought the rights to explore in the area from oil giant shell. mr gammell
-    is a former scottish international rugby player.'
-  - amnesty chief laments war failure the lack of public outrage about the war on
-    terror is a powerful indictment of the failure of human rights groups  amnesty
-    international s chief has said.  in a lecture at the london school of economics  irene
-    khan said human rights had been flouted in the name of security since 11 september  2001.
-    she said the human rights movement had to use simpler language both to prevent
-    scepticism and spread a moral message. and it had to fight poverty  not just focus
-    on political rights for elites.  ms khan highlighted detentions without trial  including
-    those at the us camp at guantanamo bay in cuba  and the abuse of prisoners as
-    evidence of increasing human rights problems.  what s a new challenge is the way
-    in which this age-old debate on security and human rights has been translated
-    into the language of war   she said.  by using the language of war  human rights
-    are being sidelined because we know human rights do not apply in times of war.  ms
-    khan said such breaches were infectious and were now seen in almost very major
-    country in the world.  the human rights movement faces a crisis of faith in the
-    value of human rights   she said. that was accompanied by a crisis of governance  where
-    the united nations system did not seem able to hold countries to account.  the
-    amnesty secretary-general said a growing gap between the perceived influence of
-    human rights group and what they could actually achieve was fuelling scepticism.  public
-    passivity on the war against terror is the single most powerful indictment on
-    the failures of human rights groups   she said. ms khan said the movement had
-    failed to mobilise public outrage about what was happening to the human rights
-    system. there needed to be a drive to use simpler language  talking about the
-    basic morality of the issues rather than the complexity of legal processes. such
-    efforts could make the issues more relevant to people across the world  she said.  the
-    human rights groups also had to recognise there were new groups which had to be
-    tackled in new ways as power dripped away from state governments. al-qaeda  for
-    example  was not going to be impressed by a traditional amnesty letter writing
-    campaign. more also needed to be done to develop a human rights framework for
-    international business corporations. amnesty international members voted in 2001
-    to extend the organisation s work from political and civil rights to cover social
-    and economic rights too. ms khan said the human rights movement would make itself
-    irrelevant if it turned away from the suffering caused by economic strife.  we
-    would be an elitist bunch working for the elites  for those who cannot read the
-    newspaper of their choice rather than those who cannot read   she said. despite
-    her concerns  ms khan dubbed herself a  hope-monger   saying she was confident
-    the passions of the human rights movement could overcome the new challenges.
-  - 'brookside actress keaveney dies actress anna keaveney  who appeared in brookside  my
-    family and a touch of frost  has died of lung cancer aged 55.  keaveney  who played
-    brookside s marie jackson when the channel 4 soap began in 1982  died on saturday.
-    born in runcorn  cheshire  she also starred in numerous films including 1989 s
-    shirley valentine. she played nellie in mike leigh s latest film vera drake  which
-    won the golden lion prize for best film at this year s venice film festival.  and
-    most recently she appeared alongside richard wilson in itv s king of fridges and
-    with martin clunes in doc martin. other tv appearances included the part of matron
-    in itv drama footballers  wives and a cameo role as tom farrell s mother sheila
-    in bbc comedy gimme gimme gimme. keaveney s career also included stage performances
-    in neaptide for the national theatre  private lives and the rise and fall of little
-    voice. the actress died in hospital. her agent barry brown said:  anna was due
-    to have had another operation on friday but unfortunately she was too weak.'
-- source_sentence: 'blair returns from peace mission prime minister tony blair has
-    arrived back from his diplomatic mission to the middle east to try to resurrect
-    the peace process.  mr blair held talks with his israeli counterpart  ariel sharon  and
-    the palestinian leader  mahmoud abbas. he confirmed that a renewed drive to reform
-    the palestinian authority and address security issues would come at a london conference
-    in march. mr blair also made a surprise trip to iraq this week. the israelis described
-    the meeting as important but said they would not need to attend. mr blair briefly
-    visited the tomb of yasser arafat in ramallah - the first world leader to do so.
-    he nodded briefly towards the tomb  rather than lay a wreath  in what palestinian
-    officials said was a compromise gesture agreed at the last minute.  the bbc s
-    paul reynolds says the london conference will be a limited measure to shore up
-    the leadership of mahmoud abbas  also known as abu mazen  who is expected to win
-    the palestinian presidential election on 9 january. at a news conference following
-    talks with mr blair  mr abbas said the british prime minister was  in a unique
-    position to help us progress in our peaceful pursuit . he added:  your endeavour
-    to hold a conference in london is another example of your deep commitment to this
-    purpose.  in an interview with the bbc s political editor andrew marr  mr blair
-    said getting progress between israelis and palestinians would be  tough  but at
-    least we have got the first step . mr blair acknowledged some people believed
-    he was too close to the israelis  but said the israelis were entitled to expect
-    palestinians to give up terrorism. he argued that mr sharon was committed to the
-    internationally-agreed roadmap peace plan and said his bid to disengage from gaza
-    had to be part of the peace process  not the end of it. earlier  mr sharon again
-    said he had not seen  the slightest step  the palestinians were working to end
-    terror attacks - though he acknowledged palestinian leaders were in the middle
-    of an election campaign that could be hampering their efforts. before visiting
-    israel  mr blair made a surprise visit to iraq  where he met leaders in baghdad
-    during his first trip to the city. he was briefed on preparations for the national
-    poll  which is scheduled for next month but is threatened by a deadly campaign
-    of insurgent violence. he also flew to basra in southern iraq where british forces
-    are stationed.'
+  - 'italy aim to rattle england italy coach john kirwan believes his side can upset
+    england as the six nations wooden spoon battle hots up.  the two sides  both without
+    a win  meet on 12 march at twickenham and kirwan says his side will be hoping
+    to make the most of england s current slump.  we have to make sure the england
+    and france games are tough for them.  england have not been having the best of
+    championships. that is a big one for us and them and i am sure my players will
+    rise to the occasion   he said. but kirwan admits that a lot of hard work will
+    be needed with his kickers before the trip to london. roland de marigny and luciano
+    orquera had a miserable time with the boot in the dire defeat to scotland as chris
+    paterson stole the show to give the hosts a much-needed 18-10 victory. kirwan
+    said:  the kicking was the decisive factor in scotland which cost us and it could
+    go down to the kicking again next time.  but i have a lot of confidence in my
+    players and i am positive we can put everything together against england.  england  meanwhile  are
+    licking their wounds and rueing what might have been had two decisions from referee
+    jonathan kaplan not gone against them in the second half in dublin. first mark
+    cueto was judged offside as he chased fly-half charlie hodgson s kick  and then
+    kaplan opted not to call upon video evidence to see if josh lewsey had touched
+    down after being driven over ireland s line.  but centre jamie noon believes the
+    side at least showed better form than their previous two defeats.  we definitely
+    improved against an in-form irish side   he said.  we went to dublin quietly confident
+    that we would be able to compete  and i think we showed that.  we have got to
+    make sure we now take the form and positives into the italy game. we are under
+    no illusions that it is going to be easy  but we definitely need a win.  england
+    have now equalled an 18-year low of four successive championship defeats  including
+    france in paris last season  and have lost four in a row under andy robinson.
+    his predecessor  sir clive woodward  began his seven-year reign with three defeats
+    and two draws.'
+  - israel looks to us for bank chief israel has asked a us banker and former international
+    monetary fund director to run its central bank.  stanley fischer  vice chairman
+    of banking giant citigroup  has agreed to take the bank of israel job subject
+    to approval from parliament and cabinet. his nomination by prime minister ariel
+    sharon came as a surprise  and led to gains on the tel aviv stock market. mr fischer  who
+    speaks fluent hebrew  will have to become an israeli citizen to take the job.
+    the us says he will not have to give up us citizenship to do so.  previous incumbent
+    david klein  who often argued with the finance ministry  steps down on 16 january.
+    mr fischer will face a delicate balancing act - both in political and economic
+    terms - between mr sharon and finance minister binyamin netanyahu  who also backed
+    his nomination. but his appointment has also raised hopes that it could bring
+    in fresh investment - and perhaps even an improvement in the country s credit
+    rating mr fischer first went to israel for six months in 1973  and almost emigrated
+    there before deciding finally to return to the us. while teaching at the massachussetts
+    institute of technology he spent a month seconded to the bank of israel in 1979  beginning
+    a long-time involvement in studying israel s economy. in 1983 mr fischer became
+    adviser on israel s economy to then-us secretary of state george shultz. at the
+    world bank in 1985  he participated in drawing up an economic stabilisation package
+    for israel.
+  - 'speak easy plan for media players music and film fans will be able to control
+    their digital media players just by speaking to them  under plans in development
+    by two us firms.  scansoft and gracenote are developing technology to give people
+    access to their film and music libraries simply by voice control. they want to
+    give people hands-free access to digital music and films in the car  or at home
+    or on the move. huge media libraries on some players can make finding single songs
+    hard.  voice command-and-control unlocks the potential of devices that can store
+    large digital music collections   said ross blanchard  vice president of business
+    development for gracenote.  these applications will radically change the car entertainment
+    experience  allowing drivers to enjoy their entire music collections without ever
+    taking their hands off the steering wheel   he added.  gracenote provides music
+    library information for millions of different albums for jukeboxes such as apple
+    s itunes. the new technology will be designed so that people can play any individual
+    song or movie out of a collection  just by saying its name. users will also be
+    able to request music that fits a mood or an occasion  or a film just by saying
+    the actor s name.  speech is a natural fit for today s consumer devices  particularly
+    in mobile environments   said alan schwartz  vice president of speechworks  a
+    division of scansoft.  pairing our voice technologies with gracenote s vast music
+    database will bring the benefits of speech technologies to a host of consumer
+    devices and enable people to access their media in ways they ve never imagined.  the
+    two firms did not say if they were developing the technology for languages other
+    than english. users will also be able to get more information on a favourite song
+    they have been listening to by asking:  what is this   portable players are becoming
+    popular in cars and a number of auto firms are working with apple to device interfaces
+    to control the firm s ipod music player. but with tens of thousands of songs able
+    to be stored on one player  voice control would make finding that elusive track
+    by elvis presley much easier. the firms gave no indication about whether the ipod  or
+    any other media player  were in mind for the use of the voice control technology.
+    the companies estimate that the technology will be available in the fourth quarter
+    of 2005.'
+- source_sentence: 'straw backs ending china embargo uk foreign secretary jack straw
+    has defended plans to end the european union s arms embargo on china  despite
+    opposition from the us and japan.  mr straw  visiting beijing  noted arms embargoes
+    applied to china  burma and zimbabwe but not to north korea  which he said had
+    a terrible rights record. the eu imposed its arms ban on china in 1989 after troops
+    opened fire on protestors in tiananmen square. mr straw also signed a deal on
+    china-uk tourism. it is expected this would increase the number of chinese tourists
+    by 40 000 per year  providing $120m in revenue. china has in the past said it
+    sees the weapons ban as politically driven  and does not want it lifted in order
+    to buy more weapons. mr straw  speaking at a joint news conference with chinese
+    foreign minister li zhaoxing  stressed this point.  the result of any decision
+    [to lift the arms embargo] should not be an increase in arms exports from european
+    union member states to china  either in quantitative or qualitative terms   mr
+    straw said. earlier this week he said he expected the embargo to be lifted within
+    six months.  but mr straw faces tough opposition to the move. tory foreign affairs
+    spokesman michael ancram said lifting the arms embargo would be  irresponsible  and
+    would damage britain s relations with the us. he said mr straw was  naive beyond
+    belief  if he accepted china s claim it does not want the ban lifted in order
+    to buy weapons. the french want the embargo lifted because they want to sell arms
+    to china; the chinese want it lifted because they want to buy arms and battlefield
+    technology from europe.  when he was in tokyo earlier this week  japanese foreign
+    minister nobutaka machimura told the british minister that his plan to remove
+    the embargo was   a worrying issue that concerns the security and environment
+    of not only japan  but also east asia overall . washington argues that if the
+    embargo is lifted  it could lead to a buying spree for arms that china could use
+    to threaten its diplomatic rival taiwan. beijing says taiwan is part of chinese
+    territory and wants to unite it with the mainland  by force if necessary. the
+    us is bound by law to help taiwan defend itself. washington has also voiced concern
+    that the human rights conditions in china have not improved enough to merit an
+    end to the embargo. it is an issue raised by human rights groups too. brad adams  from
+    the uk s human rights watch  said:  this is a huge political signal from europe
+    that they are willing to forget about tiananmen square.  but mr straw insisted
+    the eu s code of conduct on arms exports meant tough criteria on human rights
+    still had to be met if the embargo was lifted.'
   sentences:
-  - 'jungle tv show ratings drop by 4m the finale of itv1 s i m a celebrity... get
-    me out of here drew an average of 10.9m viewers - about four million fewer than
-    the previous series.  the fourth series of the show peaked on monday at 11.9m
-    and 49.2% of the audience  just before joe pasquale won. this compared with a
-    peak of 15.3m at and a record 62.2% of the tv audience when kerry mcfadden won
-    in february. comic pasquale beat former royal butler paul burrell who came second  nightclub
-    owner fran cosgrave  who was third. pasquale follows kerry mcfadden  phil tufnell
-    and tony blackburn as winners of the show.  singer and tv presenter mcfadden was
-    the show s first female winner. when cricketer phil tufnell won in may 2003  12.3
-    million people - 50% of the viewing public - tuned in to watch. and when tony
-    blackburn won the first show in 2002  10.9 million people saw the show. pasquale
-    had been the show s hottest ever favourite to win  and its hosts anthony mcpartlin
-    and declan donnelly  known as ant and dec  said monday s deciding vote was the
-    closest in the programme s history.  pascuale has been flooded with offers of
-    tv work  according to his management company  but one of his first jobs on his
-    return is pantomime.  before joining i m a celebrity  he had signed up to play
-    jack in jack and the beanstalk in birmingham  and tickets for the show have become
-    increasingly popular since he joined the tv show. his manager robert voice said:  we
-    ve had interest from different tv producers. some are for comedy shows  some are
-    new-type projects.  there are a number of things joe wants to do. he is very ambitious.  he
-    wants to play the west end and do different things other than straightforward
-    comedy. we are talking to a couple of west end producers about a musical.'
-  - 'nat insurance to rise  say tories national insurance will be raised if labour
-    wins the next election  tory leader michael howard has claimed.  tony blair has
-    said he does not want higher tax rates for top earners but on wednesday said other
-    tax promises would be left to labour s manifesto. prime minister s questions also
-    saw mr blair predict that new plans would probably cut net immigration. he attacked
-    tory plans to process asylum claims abroad - but mr howard said labour had proposed
-    the idea too.  the commons questions session again saw the leaders of the two
-    biggest parties shape up for the forthcoming election campaign. the tories have
-    promised £4bn in tax cuts but have yet to say where they will fall. mr howard
-    pointed to the institute for fiscal studies  predictions that labour will need
-    to increase taxes to cover an £11bn gap in its spending plans. he accused ministers
-    of wasting money on unsuccessful attempts to curb bad behaviour and truancy in
-    schools and on slow asylum processing. it was no good mr blair claiming tax pledges
-    were being left to the manifesto as he had given one to mps on tuesday about the
-    top rate of income tax  argued mr howard. pointing to national insurance  he added:  everyone
-    knows tax will go up under labour: isn t it now clear which tax it would be    mr
-    blair instead hailed labour s achievement in using a strong economy to invest
-    in public services.  when we have money not only going into extra teachers and
-    nurses but equipment in schools and hospitals  that money is not wasted   he said.
-    on the tax questions  he added:  we will make commitments on tax at the time of
-    the manifesto.  home secretary charles clarke this week published plans for a
-    new points system for economic migrants  with only high-skilled workers allowed
-    into the uk from outside the european union.  mr blair said abuses would be weeded
-    out and chain migration  where families automatically get the right to settle
-    with immigrant workers  would end. that would probably create a fall in the migrant
-    numbers  he said. the prime minister ridiculed the tory plans for asylum quotas
-    and for processing all asylum claims overseas. he challenged the tories on which
-    country would house their processing centres - what he called a  fantasy island
-    . mr howard read from a letter about the government s own plans at the european
-    council of ministers for processing asylum seekers outside the eu. but mr blair
-    said:  all the other countries could not agree on the way forward  nor could the
-    un.'
-  - honda wins china copyright ruling japan s honda has won a copyright case in beijing  further
-    evidence that china is taking a tougher line on protecting intellectual property
-    rights.  a court ruled that chongqing lifan industry group must stop selling honda
-    brand motorbikes and said it must pay 1.47m yuan ($177 600) in compensation. internationally
-    recognized regulation is now a key part of china s plans for developing its economy  analysts
-    said. beijing also has been threatened with sanctions if it fails to clamp down.  chinese
-    firms copy products ranging from computer software and spark plugs to baby milk
-    and compact discs. despite the fact that product piracy is a major problem  foreign
-    companies have only occasionally won cases and the compensation awarded has usually
-    been small. still  recent rulings and announcements will have boosted optimism
-    that attitudes are changing. earlier this week china said that in future it will
-    punish violators of intellectual property rights with up to seven years in jail.
-    and on tuesday  paws incorporated - the owner of the rights to garfield the cat
-    - won a court battle against a publishing house that violated its copyright. other
-    firms that have taken legal action in china  with varying degrees of success  include
-    yamaha  general motors and toyota.  the problem of piracy is not limited to china  however  and
-    the potential for profit is huge. the european union estimates that the global
-    trade in pirated wares is worth more than 200bn euros a year (£140bn; $258bn)  or
-    about 5% of total world trade. and it is growing. between 1998 and 2002  the number
-    of counterfeit or pirated goods intercepted at the eu s external borders increased
-    by more than 800%  it said. last month the eu said it will start monitoring china  ukraine
-    and russia to ensure they are going after pirated goods. other countries on the
-    eu s hit list include thailand  brazil  south korea and indonesia. any countries
-    that are not making enough of an effort could be dragged to the world trade organisation
-    (wto)  a step that could trigger economic sanctions  the eu warned.
+  - argentina  venezuela in oil deal argentina and venezuela have extended a food-for-oil
+    deal  which helped the former to overcome a severe energy crisis last year.  argentine
+    president nestor kirchner and venezuelan president hugo chavez signed the deal
+    in buenos aires on tuesday. last april  argentina signed a $240m agreement to
+    import venezuelan fuel in exchange for agricultural goods and this deal has now
+    been extended. venezuela will now import cattle  medicines and medical equipment.
+    last year  argentina s severe energy crisis forced president kirchner to suspend
+    gas exports to chile. argentina fears that rising demand could spark another crisis
+    and wants to prevent it by signing this deal. the two countries also formalised
+    a co-operation deal between venezuelan energy firm pdvsa and argentina s enarsa.
+    under this deal  the argentine market will be opened to venezuelan investment.
+    president chavez added that brazil s petrobras could join soon the co-operation
+    deal. president chavez is an ardent promoter of the concept of a south american
+    oil company  which could include the state-owned companies of venezuela  argentina  brazil
+    and bolivia. the two presidents also agreed to create  television sur   a latin
+    american network of state-owned television channels.
+  - jp morgan admits us slavery links thousands of slaves were accepted as collateral
+    for loans by two banks that later became part of jp morgan chase.  the admission
+    is part of an apology sent to jp morgan staff after the bank researched its links
+    to slavery in order to meet legislation in chicago. citizens bank and canal bank
+    are the two lenders that were identified. they are now closed  but were linked
+    to bank one  which jp morgan bought last year. about 13 000 slaves were used as
+    loan collateral between 1831 and 1865.  because of defaults by plantation owners  citizens
+    and canal ended up owning about 1 250 slaves.  we all know slavery existed in
+    our country  but it is quite different to see how our history and the institution
+    of slavery were intertwined   jp morgan chief executive william harrison and chief
+    operating officer james dimon said in the letter.  slavery was tragically ingrained
+    in american society  but that is no excuse.   we apologise to the african-american
+    community  particularly those who are descendants of slaves  and to the rest of
+    the american public for the role that citizens bank and canal bank played.   the
+    slavery era was a tragic time in us history and in our company s history.  jp
+    morgan said that it was setting up a $5m scholarship programme for students living
+    in louisiana  the state where the events took place. the bank said that it is
+    a  very different company than the citizens and canal banks of the 1800s .
+  - media seek jackson  juror  notes reporters covering singer michael jackson s trial
+    in california have asked to see questionnaires completed by potential jurors.  lawyers
+    for news organisations said it was  really vital  for the responses of 250 potential
+    jurors to be made public  to serve as a check on the process . santa barbara county
+    superior court is due to consider the request on monday. mr jackson denies child
+    molestation. it is estimated his trial will cost santa barbara county up to $4m
+    (£2.13m).  meanwhile michael jackson s mother has said she is  100% certain  her
+    son did not commit the child abuse charges he faces. the court is currently selecting
+    12 jurors and eight stand-by jurors for the trial  a process delayed until at
+    least thursday after a member of the star s legal team was hit by family illness.
+    defence lawyers argued against the bid by associated press and other news organisations
+    to have potential jurors  responses made public.   the release of the completed
+    jury questionnaires does not serve any purpose other than to add to the sensationalist
+    coverage of this case   a motion by mr jackson s lawyers stated. the estimated
+    total costs of the trial  expected to last five months  range from $2.5m (£1.33m)
+    to $4m (£2.13m) of local taxpayers  money. those estimates do not include costs
+    to the city of santa maria  the superior court or for the investigation and prosecution
+    of the case. the cost of security and other needs around the courthouse has been
+    estimated at $40 000 (£21 000) per day  said jason stilwell  a special projects
+    manager at the county administrator s office.  mr jackson  46  denies plying a
+    boy with alcohol and molesting him. his mother katherine jackson told us tv network
+    fox news on sunday that her pop star son told her he was innocent.  i believe
+    that for one reason - i know his character   she said.  he loves children. you
+    don t molest anything that you love.  describing mr jackson as  a good person   the
+    mother-of-nine said she feared he would not be given a fair trial.  i can t sleep
+    thinking about what these wicked people might try to do to him   she said.
 pipeline_tag: sentence-similarity
 library_name: sentence-transformers
 ---
@@ -514,9 +592,9 @@ from sentence_transformers import SentenceTransformer
 model = SentenceTransformer("sentence_transformers_model_id")
 # Run inference
 sentences = [
-    'blair returns from peace mission prime minister tony blair has arrived back from his diplomatic mission to the middle east to try to resurrect the peace process.  mr blair held talks with his israeli counterpart  ariel sharon  and the palestinian leader  mahmoud abbas. he confirmed that a renewed drive to reform the palestinian authority and address security issues would come at a london conference in march. mr blair also made a surprise trip to iraq this week. the israelis described the meeting as important but said they would not need to attend. mr blair briefly visited the tomb of yasser arafat in ramallah - the first world leader to do so. he nodded briefly towards the tomb  rather than lay a wreath  in what palestinian officials said was a compromise gesture agreed at the last minute.  the bbc s paul reynolds says the london conference will be a limited measure to shore up the leadership of mahmoud abbas  also known as abu mazen  who is expected to win the palestinian presidential election on 9 january. at a news conference following talks with mr blair  mr abbas said the british prime minister was  in a unique position to help us progress in our peaceful pursuit . he added:  your endeavour to hold a conference in london is another example of your deep commitment to this purpose.  in an interview with the bbc s political editor andrew marr  mr blair said getting progress between israelis and palestinians would be  tough  but at least we have got the first step . mr blair acknowledged some people believed he was too close to the israelis  but said the israelis were entitled to expect palestinians to give up terrorism. he argued that mr sharon was committed to the internationally-agreed roadmap peace plan and said his bid to disengage from gaza had to be part of the peace process  not the end of it. earlier  mr sharon again said he had not seen  the slightest step  the palestinians were working to end terror attacks - though he acknowledged palestinian leaders were in the middle of an election campaign that could be hampering their efforts. before visiting israel  mr blair made a surprise visit to iraq  where he met leaders in baghdad during his first trip to the city. he was briefed on preparations for the national poll  which is scheduled for next month but is threatened by a deadly campaign of insurgent violence. he also flew to basra in southern iraq where british forces are stationed.',
-    'jungle tv show ratings drop by 4m the finale of itv1 s i m a celebrity... get me out of here drew an average of 10.9m viewers - about four million fewer than the previous series.  the fourth series of the show peaked on monday at 11.9m and 49.2% of the audience  just before joe pasquale won. this compared with a peak of 15.3m at and a record 62.2% of the tv audience when kerry mcfadden won in february. comic pasquale beat former royal butler paul burrell who came second  nightclub owner fran cosgrave  who was third. pasquale follows kerry mcfadden  phil tufnell and tony blackburn as winners of the show.  singer and tv presenter mcfadden was the show s first female winner. when cricketer phil tufnell won in may 2003  12.3 million people - 50% of the viewing public - tuned in to watch. and when tony blackburn won the first show in 2002  10.9 million people saw the show. pasquale had been the show s hottest ever favourite to win  and its hosts anthony mcpartlin and declan donnelly  known as ant and dec  said monday s deciding vote was the closest in the programme s history.  pascuale has been flooded with offers of tv work  according to his management company  but one of his first jobs on his return is pantomime.  before joining i m a celebrity  he had signed up to play jack in jack and the beanstalk in birmingham  and tickets for the show have become increasingly popular since he joined the tv show. his manager robert voice said:  we ve had interest from different tv producers. some are for comedy shows  some are new-type projects.  there are a number of things joe wants to do. he is very ambitious.  he wants to play the west end and do different things other than straightforward comedy. we are talking to a couple of west end producers about a musical.',
-    'honda wins china copyright ruling japan s honda has won a copyright case in beijing  further evidence that china is taking a tougher line on protecting intellectual property rights.  a court ruled that chongqing lifan industry group must stop selling honda brand motorbikes and said it must pay 1.47m yuan ($177 600) in compensation. internationally recognized regulation is now a key part of china s plans for developing its economy  analysts said. beijing also has been threatened with sanctions if it fails to clamp down.  chinese firms copy products ranging from computer software and spark plugs to baby milk and compact discs. despite the fact that product piracy is a major problem  foreign companies have only occasionally won cases and the compensation awarded has usually been small. still  recent rulings and announcements will have boosted optimism that attitudes are changing. earlier this week china said that in future it will punish violators of intellectual property rights with up to seven years in jail. and on tuesday  paws incorporated - the owner of the rights to garfield the cat - won a court battle against a publishing house that violated its copyright. other firms that have taken legal action in china  with varying degrees of success  include yamaha  general motors and toyota.  the problem of piracy is not limited to china  however  and the potential for profit is huge. the european union estimates that the global trade in pirated wares is worth more than 200bn euros a year (£140bn; $258bn)  or about 5% of total world trade. and it is growing. between 1998 and 2002  the number of counterfeit or pirated goods intercepted at the eu s external borders increased by more than 800%  it said. last month the eu said it will start monitoring china  ukraine and russia to ensure they are going after pirated goods. other countries on the eu s hit list include thailand  brazil  south korea and indonesia. any countries that are not making enough of an effort could be dragged to the world trade organisation (wto)  a step that could trigger economic sanctions  the eu warned.',
+    'straw backs ending china embargo uk foreign secretary jack straw has defended plans to end the european union s arms embargo on china  despite opposition from the us and japan.  mr straw  visiting beijing  noted arms embargoes applied to china  burma and zimbabwe but not to north korea  which he said had a terrible rights record. the eu imposed its arms ban on china in 1989 after troops opened fire on protestors in tiananmen square. mr straw also signed a deal on china-uk tourism. it is expected this would increase the number of chinese tourists by 40 000 per year  providing $120m in revenue. china has in the past said it sees the weapons ban as politically driven  and does not want it lifted in order to buy more weapons. mr straw  speaking at a joint news conference with chinese foreign minister li zhaoxing  stressed this point.  the result of any decision [to lift the arms embargo] should not be an increase in arms exports from european union member states to china  either in quantitative or qualitative terms   mr straw said. earlier this week he said he expected the embargo to be lifted within six months.  but mr straw faces tough opposition to the move. tory foreign affairs spokesman michael ancram said lifting the arms embargo would be  irresponsible  and would damage britain s relations with the us. he said mr straw was  naive beyond belief  if he accepted china s claim it does not want the ban lifted in order to buy weapons. the french want the embargo lifted because they want to sell arms to china; the chinese want it lifted because they want to buy arms and battlefield technology from europe.  when he was in tokyo earlier this week  japanese foreign minister nobutaka machimura told the british minister that his plan to remove the embargo was   a worrying issue that concerns the security and environment of not only japan  but also east asia overall . washington argues that if the embargo is lifted  it could lead to a buying spree for arms that china could use to threaten its diplomatic rival taiwan. beijing says taiwan is part of chinese territory and wants to unite it with the mainland  by force if necessary. the us is bound by law to help taiwan defend itself. washington has also voiced concern that the human rights conditions in china have not improved enough to merit an end to the embargo. it is an issue raised by human rights groups too. brad adams  from the uk s human rights watch  said:  this is a huge political signal from europe that they are willing to forget about tiananmen square.  but mr straw insisted the eu s code of conduct on arms exports meant tough criteria on human rights still had to be met if the embargo was lifted.',
+    'argentina  venezuela in oil deal argentina and venezuela have extended a food-for-oil deal  which helped the former to overcome a severe energy crisis last year.  argentine president nestor kirchner and venezuelan president hugo chavez signed the deal in buenos aires on tuesday. last april  argentina signed a $240m agreement to import venezuelan fuel in exchange for agricultural goods and this deal has now been extended. venezuela will now import cattle  medicines and medical equipment. last year  argentina s severe energy crisis forced president kirchner to suspend gas exports to chile. argentina fears that rising demand could spark another crisis and wants to prevent it by signing this deal. the two countries also formalised a co-operation deal between venezuelan energy firm pdvsa and argentina s enarsa. under this deal  the argentine market will be opened to venezuelan investment. president chavez added that brazil s petrobras could join soon the co-operation deal. president chavez is an ardent promoter of the concept of a south american oil company  which could include the state-owned companies of venezuela  argentina  brazil and bolivia. the two presidents also agreed to create  television sur   a latin american network of state-owned television channels.',
+    'media seek jackson  juror  notes reporters covering singer michael jackson s trial in california have asked to see questionnaires completed by potential jurors.  lawyers for news organisations said it was  really vital  for the responses of 250 potential jurors to be made public  to serve as a check on the process . santa barbara county superior court is due to consider the request on monday. mr jackson denies child molestation. it is estimated his trial will cost santa barbara county up to $4m (£2.13m).  meanwhile michael jackson s mother has said she is  100% certain  her son did not commit the child abuse charges he faces. the court is currently selecting 12 jurors and eight stand-by jurors for the trial  a process delayed until at least thursday after a member of the star s legal team was hit by family illness. defence lawyers argued against the bid by associated press and other news organisations to have potential jurors  responses made public.   the release of the completed jury questionnaires does not serve any purpose other than to add to the sensationalist coverage of this case   a motion by mr jackson s lawyers stated. the estimated total costs of the trial  expected to last five months  range from $2.5m (£1.33m) to $4m (£2.13m) of local taxpayers  money. those estimates do not include costs to the city of santa maria  the superior court or for the investigation and prosecution of the case. the cost of security and other needs around the courthouse has been estimated at $40 000 (£21 000) per day  said jason stilwell  a special projects manager at the county administrator s office.  mr jackson  46  denies plying a boy with alcohol and molesting him. his mother katherine jackson told us tv network fox news on sunday that her pop star son told her he was innocent.  i believe that for one reason - i know his character   she said.  he loves children. you don t molest anything that you love.  describing mr jackson as  a good person   the mother-of-nine said she feared he would not be given a fair trial.  i can t sleep thinking about what these wicked people might try to do to him   she said.',
 ]
 embeddings = model.encode(sentences)
 print(embeddings.shape)
@@ -576,13 +654,13 @@ You can finetune this model on your own dataset.
   |         | sentence_0                                                                            | sentence_1                                                                            |
   |:--------|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|
   | type    | string                                                                                | string                                                                                |
-  | details | <ul><li>min: 158 tokens</li><li>mean: 249.82 tokens</li><li>max: 256 tokens</li></ul> | <ul><li>min: 104 tokens</li><li>mean: 249.88 tokens</li><li>max: 256 tokens</li></ul> |
+  | details | <ul><li>min: 158 tokens</li><li>mean: 249.69 tokens</li><li>max: 256 tokens</li></ul> | <ul><li>min: 104 tokens</li><li>mean: 249.44 tokens</li><li>max: 256 tokens</li></ul> |
 * Samples:
   | sentence_0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | sentence_1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
   |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-  | <code>oscars steer clear of controversy the oscars nominations list has left out some of the most controversial films of the past year in favour of safer  less contentious cinema.  if best film nominees were drawn on the basis of column inches  two of the front-runners would have had to be michael moore s bush-baiting documentary fahrenheit 9/11 and mel gibson s the passion of the christ. both films polarised opinion but had critics talking  and the public turning up to see them - fahrenheit 9/11 breaking us box office records for a documentary  and the passion of the christ making more than us$370m (£196m) in the us alone. but this year s academy awards have shied away from the big name controversies  with the passion of the christ - a film accused of being anti-semitic - receiving nominations only in the  minor  categories of cinematography  makeup and musical score.  fahrenheit 9/11 has also been overlooked  despite winning the palme d or at the cannes international film festival in 2004....</code> | <code>blunkett hints at election call ex-home secretary david blunkett has given fresh clues that the general election will be announced on monday.  he told bbc radio five live:  i m out in my constituency getting ready for what we presume will be an announcement very shortly at the weekend.  he clarified that he meant he would be in his sheffield seat this weekend  not that he expected an election call then. tony blair is tipped to ask the queen on monday to dissolve parliament ready for a 5 may poll.</code>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-  | <code>football manager scores big time for the past decade or so the virtual football fans among us will have become used to the annual helping of championship manager (cm). indeed  it seems like there has been a cm game for as many years as there have been pcs.  however  last year was the final time that developers sports interactive (si) and publishers eidos would work together. they decided to go their separate ways  and each kept a piece of the franchise. si kept the game s code and database  and eidos retained rights to the cm brand  and the look and feel of the game. so at the beginning of this year  fans faced a new situation. eidos announced the next cm game  with a new team to develop it from scratch  whilst si developed the existing code further to be released  with new publishers sega  under the name football manager. so what does this mean  well  football manager is the spiritual successor to the cm series  and it has been released earlier than expected. at this point cm5 looks l...</code> | <code>call for action on internet scam phone companies are not doing enough to warn customers about internet  rogue-dialling  scams  according to premium phone line regulator icstis.  it has received 45 000 complaints in recent months about dial-up internet connections diverting to premium rate numbers without users  knowledge. phone companies refuse to pay compensation because they say calls must be paid for. they must warn people earlier about possible fraud  icstis said.  people who use dial-up connections can be affected by the scams. without realising  a program can be downloaded which diverts internet calls via a premium phone line. victims often fail to notice until they receive an unusually high bill. icstis spokesman rob dwight said:  phone companies should get in touch with their customers sooner.  if my bill goes over the usual £50 a month i want to know about it straight away - i don t want to be told when it s hit £750.   phone companies had the systems in place to spot fraudule...</code> |
-  | <code>ukraine steel sell-off  illegal  the controversial sell-off of a ukrainian steel mill to a relative of the former president was illegal  a court has ruled.  the mill  krivorizhstal  was sold in june 2004 for $800m (£424m) - well below other offers. president viktor yushchenko  elected in december  is planning to revisit many of ukraine s recent privatisations. krivorizhstal is one of dozens of firms which he says were sold cheaply to friends of the previous administration.  on wednesday  prime minister yulia tymoshenko said as many as 3 000 firms could be included on the list of firms whose sale was being reviewed.  mr yushchenko had previously said the list would be limited to 30-40 enterprises. more than 90 000 businesses in all  from massive corporations to tiny shopfronts  have been sold off since 1992  as the command economy built up when ukraine was part of the soviet union was dismantled. analysts have suggested that the government needs to avoid the impression of an open-ended ...</code> | <code>irish finish with home game republic of ireland manager brian kerr has been granted his wish for a home game as the final world cup qualifier.  ireland will close their bid to reach the 2006 finals by playing switzerland in dublin on 12 october 2005. the republic met the swiss in their final euro 2004 qualifier  losing 2-0 away and missing out on a place in the finals in portugal. the group four fixtures were hammered out at a meeting in dublin on tuesday. the irish open their campaign on 4 september at home to cyprus and wrap up the 10-match series on 12 october 2005  with the visit of switzerland. manager brian kerr and fai officials met representatives from switzerland  france  cyprus  israel and the faroe islands to arrange the fixture schedule. kerr had hoped to finish with a clash against france  but got the reigning european champions as their penultimate home match on 7 september 2005. the manager got his wish to avoid a repeat of finishing their bid to qualify with too many aw...</code> |
+  | <code>moreno debut makes oscar mark catalina sandino moreno has joined a rare group of actresses who have been nominated for an oscar for starring in a foreign language film.  the colombian-born actress was the final hope for director joshua marston  who scoured the us and colombia for a lead for maria full of grace. the film sees the 23-year-old play a teenage drug mule who smuggles heroin by swallowing pellets in condoms. plaudits have been raining down on her for her gritty performance  making it all the more surprising that this is her first film. her previous acting experience was in amateur productions in her home city of bogota at the ruben di pietro theatre academy. she has already received a nomination for the independent spirit awards leading actress category but these rarely overlap with academy awards  instead recognising quirkier  low-budget films. and at the 2004 berlin film festival the jury could not choose between her and charlize theron s oscar winning performance in monste...</code> | <code>jones happy with henson heroics wales fly-half stephen jones admitted he was happy to hand gavin henson responsibility for taking the match-winning kick against england.  jones had missed three earlier shots at goal when wales  9-8 down  were awarded a long-range penalty with four minutes left in cardiff.  i knew the percentages of gavin reaching it were far higher than me   jones said.  when he said he wanted it  there were no problems.  jones had seen a long-range effort fall a whisker under the crossbar on the hour  before charlie hodgson put england in front with 10 minutes left.  i looked at where it was and i knew i was going to struggle to make it   jones added.  i said to gareth (thomas  the wales captain)  this is touch and go.  it was out of my range and obviously gavin is phenomenal when it comes to distance. he was confident and fancied it.  there were no questions that he d miss it the way he was playing. he had a superb game.  jones was happy to hail henson s heroic contr...</code> |
+  | <code>retail sales show festive fervour uk retail sales were better than expected in november as christmas shoppers began their seasonal flock to the high street  figures show.  the office for national statistics (ons) said retail sales rose 0.6% on the month and 6.1% on the year. but the figures  along with this week s inflation report  could trigger another interest rate rise in the new year. however  recent data from the british retail consortium showed a 0.2% slip in high street sales during november.  the ons data confounded analyst expectations. many had expected sales to fall slightly in november as shoppers put off buying christmas presents until december. however  retailers  attempts to draw in the crowds may be behind november s unexpected rise in sales  they say. aggressive tactics  such as one-day discount sales adopted by stores such as marks & spencer  appear to have paid off.  price discounting has certainly accounted for much of this because the value of retail sales hasn t g...</code> | <code>lse doubts boost bidders  shares shares in deutsche boerse have risen more than 3% after a shareholder fund voiced opposition to the firm s planned takeover of the london stock exchange.  tci  which claims to represent owners of 5% of deutsche boerse s (db) shares  has complained that the £1.35bn ($2.5bn) offer for the lse is too high. opposition from tci has fuelled speculation that the proposed takeover could fail. rival exchange operator euronext has also said it may bid for the lse. euronext operates the paris  amsterdam  brussels and lisbon bourses  while deutsche boerse runs the frankfurt exchange.  bbc news spoke to a number of analysts on monday morning about shareholder worries over deutsche boerse s bid for lse. although none were prepared to speak on the record  most thought it was unlikely that tci s opposition would halt the deal   obviously we ll have to wait and see  but i don t think it will make much difference. deutsche boerse appears very committed   said one london-...</code> |
+  | <code>police probe bnp mosque leaflet police are investigating a british national party leaflet posted to homes in south wales opposing plans for a new mosque.  anti-racism campaigners in swansea have handed copies to south wales police. swansea s muslim community is raising money to open a new mosque and community centre in the former st andrews united reform church. the building on george street has been derelict since the 1980s.  taha idris  director of the swansea bay race equality council  said his organisation contacted police after receiving complaints from the public.  i m quite shocked to see this sort of leaflet by the bnp in swansea   he said.   the bnp has tried in the past to get into swansea and this is another example of them trying again.  i am in no doubt that the bnp are not needed and not wanted here.  a south wales police spokeswoman confirmed that they were looking at the contents of the leaflet. according to the bnp s website  they have been posted to homes in the castl...</code> | <code>profile: gordon brown the ultimate prize of 10 downing street may continue to elude him but  as he prepares to deliver a record-breaking ninth budget  gordon brown can at least console himself with the thought that he is the longest serving chancellor of modern times.  he reached that milestone last june  when he overtook david lloyd george  who served for seven years and 43 days between 1908 and 1915. how much longer mr brown will continue in the job is not clear (he once said there are two types of chancellor:  those who fail and those who get out in time. ) there are rumours he will be moved to the foreign office if labour wins the general election. but  for now  mr brown dominates the domestic political scene like few chancellors - or politicians - before him.  gordon brown was born in glasgow on 20 february 1951  the son of a church of scotland minister in the small fife town of kirkcaldy. at 12  he was canvassing for labour and by his 20s he was a leading political activist in sc...</code> |
 * Loss: [<code>MultipleNegativesRankingLoss</code>](https://sbert.net/docs/package_reference/sentence_transformer/losses.html#multiplenegativesrankingloss) with these parameters:
   ```json
   {
