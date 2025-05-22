@@ -1,2 +1,4 @@
 env/
 checkpoints/
+__pycache__/
+
